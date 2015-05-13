@@ -12,6 +12,8 @@ run with any OpenCL implementation but AMD APP SDK is suggested.
 
 
 Thesis Abstract
+======
+
 In this study, we widely investigate the problem of string matching in the context of Heterogeneous Parallel Computing. A overview of string matching is made, in which the different forms of string matching problem are distinguished, and the classifications of string matching algorithm are discussed. 
 
 As an alternative to grep for computational intensive string matching and in addition to support the research of the study, a parallel exact string matching utility `Clgrep' is developed. 
